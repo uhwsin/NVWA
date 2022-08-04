@@ -7,6 +7,6 @@ ModuleBreakpoints2=
 ModuleClosedNodes0=
 ModuleClosedNodes1=
 ModuleClosedNodes2=
-NavigationStack=Main,now_string,75,0,Main,Activity_Create,118,0,Main,DBload,81,0,Main,quit_Click,163,0,Main,get_tags,197,0,Main,chinese_Click,217,0,Main,Globals,32,6,Main,InitializeCamera,337,0,Main,answer_Click,369,0,Main,submit_Click,385,0,Main,select_question,531,0
+NavigationStack=Main,english_imp_Click,353,0,Main,biology_imp_Click,382,0,Main,Camera1_PictureTaken,462,0,Main,select_question,685,0,Main,Refresh_question,697,0,Main,change_rules_Click,759,2,Main,switch_qa_Click,723,0,Main,Globals,48,0,Main,incorrect_Click,720,3,Main,correct_Click,662,0,Main,Activity_Pause,166,0
 SelectedBuild=0
 VisibleModules=1,2
